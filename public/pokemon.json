@@ -1,7 +1,7 @@
 [{
     "id": 1,
     "name": {
-      "english": "Bulbasaur",
+      "english": "Killua",
       "japanese": "フシギダネ",
       "chinese": "妙蛙种子",
       "french": "Bulbizarre"
@@ -22,7 +22,7 @@
   {
     "id": 2,
     "name": {
-      "english": "Ivysaur",
+      "english": "Saitama",
       "japanese": "フシギソウ",
       "chinese": "妙蛙草",
       "french": "Herbizarre"
@@ -32,18 +32,18 @@
       "Poison"
     ],
     "base": {
-      "HP": 60,
-      "Attack": 62,
-      "Defense": 63,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
-      "Speed": 60
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      "Speed": 100
     }
   },
   {
     "id": 3,
     "name": {
-      "english": "Venusaur",
+      "english": "Luffy",
       "japanese": "フシギバナ",
       "chinese": "妙蛙花",
       "french": "Florizarre"
@@ -64,7 +64,7 @@
   {
     "id": 4,
     "name": {
-      "english": "Charmander",
+      "english": "Zoro",
       "japanese": "ヒトカゲ",
       "chinese": "小火龙",
       "french": "Salamèche"
@@ -84,7 +84,7 @@
   {
     "id": 5,
     "name": {
-      "english": "Charmeleon",
+      "english": "Franki",
       "japanese": "リザード",
       "chinese": "火恐龙",
       "french": "Reptincel"
@@ -104,7 +104,7 @@
   {
     "id": 6,
     "name": {
-      "english": "Charizard",
+      "english": "Eugine",
       "japanese": "リザードン",
       "chinese": "喷火龙",
       "french": "Dracaufeu"
@@ -125,7 +125,7 @@
   {
     "id": 7,
     "name": {
-      "english": "Squirtle",
+      "english": "Goku",
       "japanese": "ゼニガメ",
       "chinese": "杰尼龟",
       "french": "Carapuce"
@@ -134,18 +134,18 @@
       "Water"
     ],
     "base": {
-      "HP": 44,
-      "Attack": 48,
-      "Defense": 65,
-      "Sp. Attack": 50,
-      "Sp. Defense": 64,
-      "Speed": 43
+      "HP": 100,
+      "Attack": 99,
+      "Defense": 99,
+      "Sp. Attack": 99,
+      "Sp. Defense": 99,
+      "Speed": 99
     }
   },
   {
     "id": 8,
     "name": {
-      "english": "Wartortle",
+      "english": "Genos",
       "japanese": "カメール",
       "chinese": "卡咪龟",
       "french": "Carabaffe"
@@ -165,7 +165,7 @@
   {
     "id": 9,
     "name": {
-      "english": "Blastoise",
+      "english": "Blast",
       "japanese": "カメックス",
       "chinese": "水箭龟",
       "french": "Tortank"
@@ -185,7 +185,7 @@
   {
     "id": 10,
     "name": {
-      "english": "Caterpie",
+      "english": "Vincent",
       "japanese": "キャタピー",
       "chinese": "绿毛虫",
       "french": "Chenipan"
@@ -205,7 +205,7 @@
   {
     "id": 11,
     "name": {
-      "english": "Metapod",
+      "english": "Sailormoon",
       "japanese": "トランセル",
       "chinese": "铁甲蛹",
       "french": "Chrysacier"
@@ -225,7 +225,7 @@
   {
     "id": 12,
     "name": {
-      "english": "Butterfree",
+      "english": "Naruto",
       "japanese": "バタフリー",
       "chinese": "巴大蝶",
       "french": "Papilusion"
@@ -246,7 +246,7 @@
   {
     "id": 13,
     "name": {
-      "english": "Weedle",
+      "english": "Saske",
       "japanese": "ビードル",
       "chinese": "独角虫",
       "french": "Aspicot"
@@ -267,7 +267,7 @@
   {
     "id": 14,
     "name": {
-      "english": "Kakuna",
+      "english": "Killua",
       "japanese": "コクーン",
       "chinese": "铁壳蛹",
       "french": "Coconfort"
